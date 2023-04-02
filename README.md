@@ -1,4 +1,5 @@
 # Awesome Person Re-ID 3D/MM
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Reserach for Person Re-ID using methods correalted with 3D or something about Multi-Modality (Multi View, Diffussion, Text-to-Image...)
 
