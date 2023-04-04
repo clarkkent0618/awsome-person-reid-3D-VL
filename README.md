@@ -1,4 +1,4 @@
-# Awesome Person Re-ID 3D/MM
+# Awesome Person Re-ID 3D/Multi Modal/Vision Language
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 Reserach for Person Re-ID using methods correalted with 3D or something about Multi-Modality (Multi View, Diffussion, Text-to-Image...)
@@ -19,9 +19,14 @@ Reserach for Person Re-ID using methods correalted with 3D or something about Mu
 
 
 
-## Multi Modal Papers
+## Vision-Language Papers
+
+#### 2023
+
+- CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels(**CVPR**)[[paper](https://arxiv.org/abs/2211.13977)]
 
 #### 2022
 
 - Learning Granularity-Unified Representations for Text-to-Image Person Re-identification(**ACM MM**) [[paper]](https://arxiv.org/abs/2207.07802)
+
 
