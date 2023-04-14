@@ -25,7 +25,7 @@ Reserach for Person Re-ID using methods correalted with 3D or something about Mu
 
 #### 2023
 
-- CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels(**CVPR**)[[paper](https://arxiv.org/abs/2211.13977)][[中文解读](https://zhuanlan.zhihu.com/p/621771978)]
+- CLIP-ReID: Exploiting Vision-Language Model for Image Re-Identification without Concrete Text Labels(**AAAI**)[[paper](https://arxiv.org/abs/2211.13977)][[中文解读](https://zhuanlan.zhihu.com/p/621771978)]
 
 #### 2022
 
